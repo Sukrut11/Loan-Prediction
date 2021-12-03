@@ -31,7 +31,7 @@ Loan id, Gender, Married, Dependents, Education, Self Employed, Applicant income
 
 8. Loan Amount is linearly dependent on Applicant income
 
-9. From heatmaps, applicant income and loan amount are highly positively correlated.
+9. Applicant income and loan amount are highly positively correlated.
 
 10. Male applicants are more than female applicants.
 
