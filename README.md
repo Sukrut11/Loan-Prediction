@@ -3,11 +3,10 @@
 
 ## Aim
 
-Our aim from the project is to make use of pandas, matplotlib, & seaborn libraries from python to extract insights from the data and  xgboost, & scikit-learn libraries for machine learning.
+Our aim from the project is to make use of pandas, matplotlib, & seaborn libraries from python to extract insights from the data, use scikit-learn libraries for machine learning.
 
-Secondly, to learn how to hypertune the parameters using grid search cross validation for the xgboost machine learning model.
+We also learnt how to hypertune the parameters using Decision Tree Classifiers and how to fit Logisitc Regression on the traininig and test data sets. 
 
-And in the end, to predict whether the loan applicant can replay the loan or not using voting ensembling techniques of combining the predictions from multiple machine learning algorithms.
 
 
 ## Attributes in the dataset
